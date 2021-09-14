@@ -1,3 +1,5 @@
 .projectsImg {
   image-rendering: auto;
+  width: inherit;
+  height: inherit;
 }
