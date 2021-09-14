@@ -113,6 +113,12 @@ body {
   line-height: 1;
 }
 
+.projectImg {
+  /* image-rendering: auto; */
+  width: 450px;
+  height: 450px;
+}
+
 ol,
 ul {
   list-style: none;
